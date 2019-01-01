@@ -1,0 +1,2 @@
+# Run 'pip install -r requirements.txt -t lib/' to requirements
+Flask==0.12.4
